@@ -1,0 +1,10 @@
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\bin\Debug\WindowsFormsApp114.exe.config
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\bin\Debug\WindowsFormsApp114.exe
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\bin\Debug\WindowsFormsApp114.pdb
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.Form1.resources
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.Properties.Resources.resources
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.exe
+C:\Users\berka\source\repos\WindowsFormsApp114\WindowsFormsApp114\obj\Debug\WindowsFormsApp114.pdb
